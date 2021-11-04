@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Quà sinh nhật",
     introTitle: 'Đoán xem tui là ai nè :)',
-    introDesc: 'Ủa, hôm nay sinh nhật của ai vậy cà!!! Cậu có nghĩ rằng mình thật may mắn khi được người dễ thương như tui chúc sinh nhật không ? Chúc H sinh nhật vui vẻ nhé! ',
+    introDesc: 'Ủa, hôm nay sinh nhật của ai vậy cà!!! Cậu có nghĩ rằng mình thật may mắn khi được người dễ thương như tui chúc sinh nhật không ? Chúc H sinh nhật vui vẻ nhé!',
     btnIntro: '^^ Nhận quà đi nè hihi ^^',
     title: ' H có muốn ngày này năm sau sẽ là lời chúc của người iu cậu không? H làm người yêu mình nhé <3 Nếu H thoát ra thì H ĐỒNG Ý với mình rồi đó',
     desc: ' Tìch tịch tình tang - Con cua bò ngang vạn kiếp. Làm bạn thân miết anh không thấy chán à >_< ',
